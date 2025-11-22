@@ -32,7 +32,7 @@ from sklearn.model_selection import cross_val_score, StratifiedKFold
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, classification_report
 
 # Leer data set como data frame
-data = pd.read_csv('heart.csv')
+data = pd.read_csv('Datasets/heart.csv')
 
 # Eliminar posibles datos nulos del data frame
 data = data.dropna()
