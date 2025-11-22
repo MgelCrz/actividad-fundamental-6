@@ -1,5 +1,5 @@
 
-# Predicción de enfermedaded cardíaca con regresión logística
+# Predicción de enfermedad cardíaca con regresión logística
 
 Este proyecto implementa un modelo de aprendizaje supervisado en Python para predecir la presencia de enfermedades cardíacas basándose en atributos clínicos de pacientes. Utiliza un modelo de **Regresión Logística** optimizado y evalúa su rendimiento mediante validación cruzada y métricas detalladas.
 
